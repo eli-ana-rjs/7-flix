@@ -1,0 +1,254 @@
+# depslib dependency file v1.0
+1636750578 source:c:\users\apunt\desktop\proy\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	<wchar.h>
+	<locale.h>
+	"stUsuario.h"
+	"stPelicula.h"
+	"menuAdministrador.h"
+	"menuUsuario.h"
+	"login.h"
+	"menuPrincipal.h"
+	"gotoxy.h"
+
+1636744616 source:c:\users\apunt\desktop\proy\menuadministrador.c
+	"menuAdministrador.h"
+
+1636682756 c:\users\apunt\desktop\proy\menuadministrador.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1636751519 source:c:\users\apunt\desktop\proy\menuusuario.c
+	"menuUsuario.h"
+
+1636738424 c:\users\apunt\desktop\proy\menuusuario.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"stUsuario.h"
+	"login.h"
+
+1636749870 source:c:\users\apunt\desktop\proy\login.c
+	"login.h"
+
+1636658894 c:\users\apunt\desktop\proy\login.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	<wchar.h>
+	<locale.h>
+	"stUsuario.h"
+	"menuAdministrador.h"
+	"menuUsuario.h"
+
+1636731039 source:c:\users\apunt\desktop\proy\menuprincipal.c
+	"menuPrincipal.h"
+
+1636714557 c:\users\apunt\desktop\proy\menuprincipal.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	<wchar.h>
+	<locale.h>
+	"gotoxy.h"
+	"login.h"
+
+1635546133 source:c:\users\apunt\desktop\proy\gotoxy.c
+	"gotoxy.h"
+
+1635546119 c:\users\apunt\desktop\proy\gotoxy.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1636749860 source:c:\users\apunt\desktop\proy\stusuario.c
+	"stUsuario.h"
+
+1636739862 c:\users\apunt\desktop\proy\stusuario.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<conio.h>
+	"gotoxy.h"
+
+1636750537 source:c:\users\apunt\desktop\proy\stpelicula.c
+	"stPelicula.h"
+
+1636750322 c:\users\apunt\desktop\proy\stpelicula.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<conio.h>
+	"gotoxy.h"
+
+1636715862 source:c:\users\apunt\desktop\proy\front.c
+	"front.h"
+
+1636715498 c:\users\apunt\desktop\proy\front.h
+
+1636749585 source:c:\users\apunt\desktop\proy\listadelistas.c
+	"listaDeListas.h"
+
+1636751586 c:\users\apunt\desktop\proy\listadelistas.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	<wchar.h>
+	<locale.h>
+	"stUsuario.h"
+	"stPelicula.h"
+
+1636715862 source:c:\users\apunt\desktop\proy2\front.c
+	"front.h"
+
+1636715498 c:\users\apunt\desktop\proy2\front.h
+
+1635546133 source:c:\users\apunt\desktop\proy2\gotoxy.c
+	"gotoxy.h"
+
+1635546119 c:\users\apunt\desktop\proy2\gotoxy.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1637592903 source:c:\users\apunt\desktop\proy2\login.c
+	"login.h"
+
+1637102677 c:\users\apunt\desktop\proy2\login.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	<wchar.h>
+	<locale.h>
+	"stUsuarios.h"
+	"menuAdministrador.h"
+	"menuUsuario.h"
+
+1636818788 c:\users\apunt\desktop\proy2\stusuario.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<conio.h>
+	"gotoxy.h"
+
+1637059342 c:\users\apunt\desktop\proy2\menuadministrador.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"stUsuarios.h"
+	"stPelicula.h"
+
+1637059342 c:\users\apunt\desktop\proy2\menuusuario.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	<wchar.h>
+	<locale.h>
+	"stUsuarios.h"
+	"stPelicula.h"
+	"listaDeListas.h"
+	"menuAdministrador.h"
+	"menuUsuario.h"
+	"login.h"
+	"menuPrincipal.h"
+	"gotoxy.h"
+
+1637617478 source:c:\users\apunt\desktop\proy2\menuadministrador.c
+	"menuAdministrador.h"
+
+1637059342 source:c:\users\apunt\desktop\proy2\menuprincipal.c
+	"menuPrincipal.h"
+
+1637059348 c:\users\apunt\desktop\proy2\menuprincipal.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	<wchar.h>
+	<locale.h>
+	"gotoxy.h"
+	"login.h"
+
+1637689194 source:c:\users\apunt\desktop\proy2\menuusuario.c
+	"menuUsuario.h"
+
+1637689434 source:c:\users\apunt\desktop\proy2\stpelicula.c
+	"stPelicula.h"
+
+1637682123 c:\users\apunt\desktop\proy2\stpelicula.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<conio.h>
+	"gotoxy.h"
+	"listaDeListas.h"
+
+1636824924 source:c:\users\apunt\desktop\proy2\stusuario.c
+	"stUsuario.h"
+
+1637688213 source:c:\users\apunt\desktop\proy2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	<wchar.h>
+	<locale.h>
+	"stUsuarios.h"
+	"stPelicula.h"
+	"listaDeListas.h"
+	"menuAdministrador.h"
+	"menuUsuario.h"
+	"login.h"
+	"menuPrincipal.h"
+	"gotoxy.h"
+
+1637059306 source:c:\users\apunt\desktop\proy2\listadelistas.c
+	"listaDeListas.h"
+
+1637059306 c:\users\apunt\desktop\proy2\listadelistas.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	<wchar.h>
+	<locale.h>
+	"stUsuarios.h"
+	"stPelicula.h"
+	"menuUsuario.h"
+	"login.h"
+	"menuPrincipal.h"
+	"gotoxy.h"
+
+1637597964 c:\users\apunt\desktop\proy2\stusuarios.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<conio.h>
+	"gotoxy.h"
+
+1637598375 source:c:\users\apunt\desktop\proy2\stusuarios.c
+	"stUsuarios.h"
+
